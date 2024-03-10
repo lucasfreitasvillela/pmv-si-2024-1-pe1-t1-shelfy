@@ -1,12 +1,10 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+No atual cenário cultural e tecnológico, a leitura continua a ser uma atividade essencial para o enriquecimento pessoal e intelectual. A era digital trouxe consigo uma grande diversidade de plataformas e recursos, mas muitos leitores ainda enfrentam dificuldades na organização de suas leituras e na descoberta de novos livros alinhados aos seus interesses individuais. Neste contexto, observamos que os leitores buscam soluções eficazes para gerenciar suas bibliotecas pessoais, acompanhar o progresso de leitura e compartilhar recomendações.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+Segundo dados alarmantes do G1, o Brasil perdeu 4,6 milhões de leitores no período entre 2015 e 2019. Evidenciando uma queda expressiva na quantidade de leitores que suscita preocupações sobre o futuro da cultura literária no país. A falta de práticas organizacionais e a dificuldade em encontrar obras alinhadas aos interesses individuais são fatores cruciais que contribuem para esse declínio. Muitos leitores enfrentam desafios na seleção de livros que correspondam às suas preferências e expectativas, o que pode resultar em desinteresse e desmotivação para continuar a leitura.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+O desafio enfrentado pelos leitores é multifacetado e complexo, exigindo soluções inovadoras que vão ao encontro das demandas e expectativas de uma comunidade leitora diversificada. A ausência de uma plataforma unificada e intuitiva para a organização de bibliotecas pessoais e a obtenção de recomendações personalizadas baseadas em gostos e interesses literários tornou-se uma barreira significativa para muitos amantes da leitura. 
 
 ## Problema
 
