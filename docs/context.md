@@ -13,21 +13,21 @@ Ler é uma atividade enriquecedora e encontrar os livros certos para cada tipo d
 No que diz respeito à plataforma, poderíamos superar o problema da falta de acesso com recomendações personalizadas, desenvolvendo assim uma experiência mais eficiente para os leitores.
 
 #  Objetivos
-MAIN GOAL:
+OBJETIVO GERAL:
 
-Encourage the habit of reading, enabling organization to develop the formation of critical sense.
+Estimular o hábito da leitura possibilitanto organização para desenvolver a formação do senso crítico.
 
-SPECIFIC OBJECTIVES:
+OBJETIVOS ESPECÍFICOS:
 
-Encourage reading.
+Estimular a leitura.
 
-Help in the positioning development cultural and social positions.
+Ajudar no desenvolvimento de posicionamentos culturais e sociais.
 
-To suplly organization tools when reading.
+Disponibilizar ferramentas de organização na hora da leitura.
 
-To reach a broad and varied target audience.
+Alcançar um público alvo abrangente e variado.
                                                               
-Propose diversification of books.
+Propor diversificação de livros.
 
 
 ## Justificativa
