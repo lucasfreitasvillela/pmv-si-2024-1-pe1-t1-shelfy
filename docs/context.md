@@ -41,12 +41,20 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Público-Alvo e Stakeholders:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Este site de controle de livros atrairá principalmente três tipos de usuários:
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Leitor Ávido: Consumidor assíduo de livros, com vasto conhecimento literário e confortável com tecnologia.
+
+Leitor Casual: Lê ocasionalmente, menos familiarizado com a tecnologia e com conhecimentos literários variados.
+
+Estudante: Utiliza o site para organizar leituras acadêmicas e recreativas, variando em familiaridade com tecnologia.
+
+Mapa de Stakeholders:
+
+Usuários Finais: Leitores.
+Desenvolvedores e Equipe Técnica: Manutenção e desenvolvimento do site.
+Editores e Curadores de Conteúdo: Recomendações e resenhas.
+Anunciantes e Patrocinadores: Suporte financeiro.
+Parceiros de Integração: Garantia de integração com outras plataformas.
