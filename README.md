@@ -1,4 +1,4 @@
-# Título do Projeto
+# Shelfy
 
 `CURSO: Sistemas de Informação`
 
@@ -10,15 +10,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Pedro Henrique Barroso Ribeiro dos Santos
+* João Felipe Dias Souza
+* Márcia Sant´ Anna Parreira
+* Saulo de Tarso Moras Ribeiro
+* João Pedro Moraes Silva
 
 ## Orientador
 
-* Nome completo do professor 1
+* Hugo Bastos de Paula
 
 # Planejamento
 
