@@ -26,13 +26,13 @@ Encourage the habit of reading, enabling organization to develop the formation o
 
 SPECIFIC OBJECTIVES:
 
-Encourage reading.
+To encourage reading.
 
-Help in the development of cultural and social positions.
+Help in the positioning development cultural and social positions.
 
-Provide organization tools when reading.
+To suplly organization tools when reading.
 
-Reach a broad and varied target audience.
+To reach a broad and varied target audience.
                                                               
 Propose diversification of books.
 
