@@ -1,10 +1,7 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
+Diversos leitores enfrentam desafios na organização de suas leituras e na descoberta de novos livros de acordo com seus gostos individuais. Nesse contexto, desenvolveremos um Sistema Web para ajudar os amantes da leitura a organizar seus livros de forma prática. 
+O usuário poderá cadastrar um livro e informar seu status de leitura, categorizar livros, marcar páginas, realizar anotações e recomendação de novos livros de acordo com os gostos individuais.
 
 ## Personas
 
