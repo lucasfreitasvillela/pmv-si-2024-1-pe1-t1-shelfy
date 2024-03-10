@@ -19,14 +19,23 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
-## Objetivos
+#  Objetivos
+MAIN GOAL:
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Encourage the habit of reading, enabling organization to develop the formation of critical sense.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+SPECIFIC OBJECTIVES:
+
+Encourage reading.
+
+Help in the development of cultural and social positions.
+
+Provide organization tools when reading.
+
+reach a broad and varied target audience.
+                                                              
+propose diversification of books.
+
 
 ## Justificativa
 
