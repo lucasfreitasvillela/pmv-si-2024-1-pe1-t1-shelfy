@@ -47,32 +47,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade | 
-|------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
+|------|-----------------------------------------|----|  
+|RF-001|	Permitir que os usuários adicionem livros à sua biblioteca pessoal, inserindo informações como título, autor, gênero, data de leitura, classificação, entre outros.|	ALTA
+|RF-002|	Permitir que os usuários organizem seus livros em diferentes categorias, como lidos, em andamento, desejados, favoritos, etc.	|ALTA
+|RF-003|	Oferecer uma função de busca que permita aos usuários encontrar livros por título, autor, gênero, ou outras categorias relevantes.|	MÉDIA
+|RF-004|	Basear recomendações de livros em preferências de leitura do usuário, histórico de leitura e avaliações de outros usuários.	|ALTA
+|RF-005|	Permitir que os usuários avaliem e escrevam resenhas sobre os livros que leram, compartilhando suas opiniões com a comunidade.|	MÉDIA
+|RF-006|	Permitir que os usuários exportem seus dados de leitura, incluindo listas de livros, resenhas e estatísticas, para outros formatos ou plataformas.|	MÉDIA
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001|	Garantir que a plataforma seja responsiva.|	ALTA
+|RNF-002|	Desenvolver uma interface intuitiva e fácil de usar, que permita aos usuários navegar e interagir com a plataforma sem dificuldades.|	ALTA
+|RNF-003|	Assegurar que a plataforma seja compatível com uma variedade de dispositivos e navegadores web, incluindo computadores, tablets e smartphones.|	ALTA
+|RNF-004|	Desenvolver o código-fonte de forma modular e bem documentada, facilitando futuras atualizações e manutenção do sistema.|	MÉDIA
+|RNF-005|	Garantir a privacidade dos usuários, implementando políticas claras de privacidade e obtendo consentimento para o uso de dados pessoais.|	ALTA
 
 ## Restrições
 
