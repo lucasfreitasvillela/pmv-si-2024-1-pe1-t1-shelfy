@@ -8,9 +8,9 @@ O desafio enfrentado pelos leitores é multifacetado e complexo, exigindo soluç
 
 ## Problema
 
-Reading is an enriching activity and finding the right books for each type of person can be a challenging process. One solution is to develop a digital platform that combines resources in relation to the organization of personal libraries, such as: author; reading date; categorization by genre etc.
+Ler é uma atividade enriquecedora e encontrar os livros certos para cada tipo de pessoa pode ser um processo desafiador. Uma solução é desenvolver uma plataforma digital que reúna recursos em relação à organização de bibliotecas pessoais, tais como: autor; data de leitura; categorização por gênero etc.
 
-When it comes to the platform, we could overcome the problem of lack of access with personalized recommendations, therefore developing a more efficient experience for readers.
+No que diz respeito à plataforma, poderíamos superar o problema da falta de acesso com recomendações personalizadas, desenvolvendo assim uma experiência mais eficiente para os leitores.
 
 #  Objetivos
 MAIN GOAL:
