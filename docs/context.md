@@ -32,9 +32,9 @@ Help in the development of cultural and social positions.
 
 Provide organization tools when reading.
 
-reach a broad and varied target audience.
+Reach a broad and varied target audience.
                                                               
-propose diversification of books.
+Propose diversification of books.
 
 
 ## Justificativa
