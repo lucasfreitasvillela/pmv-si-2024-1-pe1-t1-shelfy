@@ -38,7 +38,7 @@ Indivíduos que leem menos apresentam menor vocabulário e menor capacidade de c
 
 O baixo índice de leitura pode levar a uma menor participação cívica e política, prejudicando o funcionamento da democracia, além de problemas como o isolamento social e a falta de estímulo intelectual. O baixo índice de leitura no Brasil representa um desafio significativo que afeta não apenas o desenvolvimento individual, mas também o desenvolvimento social, econômico e cultural do país como um todo. 
 
-Portanto, e fato que o Brasil enfrenta vários desafios relacionados à leitura e ao hábito de leitura. Alguns dos principais fatores incluem: 
+Portanto, é fato que o Brasil enfrenta vários desafios relacionados à leitura e ao hábito de leitura. Alguns dos principais fatores incluem: 
 
 •	Desigualdade Social;
 •	Educação;
