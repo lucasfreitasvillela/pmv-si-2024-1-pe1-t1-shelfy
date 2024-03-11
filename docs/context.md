@@ -32,11 +32,21 @@ Propor diversificação de livros.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com o Programa Internacional de Avaliação de Alunos (PISA), o Brasil tem ocupado posições de grande preocupação. Caindo na posição 57 em 2018, e subindo para 52, no estudo de 2022, o pais não demonstrou resultados satisfatórios no que se diz aos hábitos de leitura e desenvolvimento educacional dos jovens, indicando uma dificuldade no ingresso ao mercado de trabalho e demais esferas da vida em sociedade, além de apontar para a necessidade de investimento na educação do País, sobretudo de escolas públicas.
 
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
+Indivíduos que leem menos apresentam menor vocabulário e menor capacidade de compreensão de textos complexos. Além disso, a falta de leitura está relacionada a dificuldades de concentração, menor habilidade de resolução de problemas e menor capacidade de pensar de forma crítica.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O baixo índice de leitura pode levar a uma menor participação cívica e política, prejudicando o funcionamento da democracia, além de problemas como o isolamento social e a falta de estímulo intelectual. O baixo índice de leitura no Brasil representa um desafio significativo que afeta não apenas o desenvolvimento individual, mas também o desenvolvimento social, econômico e cultural do país como um todo. 
+
+Portanto, e fato que o Brasil enfrenta vários desafios relacionados à leitura e ao hábito de leitura. Alguns dos principais fatores incluem: 
+
+•	Desigualdade Social;
+•	Educação;
+•	Falta de Políticas Públicas;
+•	Cultura e Prioridades;
+•	Acesso Limitado.
+
+Para impulsionar a taxa de leitura no Brasil, apresentamos um aplicativo web revolucionário que desempenhará um papel crucial na promoção desse hábito. Oferecendo acesso democrático a uma ampla gama de livros, incentivará a leitura e contribuirá significativamente para o desenvolvimento educacional, cultural e social do país.
 
 
 ## Público-Alvo
