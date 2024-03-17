@@ -15,7 +15,7 @@ Desenvolver um sistema de organização para livros.
 
 OBJETIVOS ESPECÍFICOS
 Coletar informações.
-Ajudar na descoberta de livros.
+Auxiliar na descoberta de livros.
 Conectar leitores com suas preferências.
 
 ## Justificativa
