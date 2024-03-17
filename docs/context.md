@@ -11,9 +11,11 @@ O desafio enfrentado pelos leitores é multifacetado e complexo, exigindo soluç
 #  Objetivos
 
 OBJETIVO GERAL
+
 Desenvolver um sistema de organização para livros.
 
 OBJETIVOS ESPECÍFICOS
+
 Coletar informações.
 
 Auxiliar na descoberta de livros.
