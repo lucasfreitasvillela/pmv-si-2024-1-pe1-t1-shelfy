@@ -9,18 +9,17 @@ Segundo dados alarmantes do G1, o Brasil perdeu 4,6 milhões de leitores no per�
 O desafio enfrentado pelos leitores é multifacetado e complexo, exigindo soluções inovadoras que vão ao encontro das demandas e expectativas de uma comunidade leitora diversificada. A ausência de uma plataforma unificada e intuitiva para a organização de bibliotecas pessoais e a obtenção de recomendações personalizadas baseadas em gostos e interesses literários tornou-se uma barreira significativa para muitos amantes da leitura.
 
 #  Objetivos
+-Objetivo geral:
 
-- Objetivo geral:
+•Desenvolver um sistema para organização de livros.
 
-• Desenvolver um sistema para organização de livros.
+-Objetivos específicos:
 
-- Objetivos específicos:
+•Coletar informações.
 
-• Coletar informações.
+•Auxiliar na descoberta de livros.
 
-• Auxiliar na descoberta de livros.
-
-• Conectar leitores com suas preferências.
+•Conectar leitores com suas preferências.
 
 ## Justificativa
 
