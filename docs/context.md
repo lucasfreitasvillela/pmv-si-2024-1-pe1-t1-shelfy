@@ -42,20 +42,6 @@ Para impulsionar a taxa de leitura no Brasil, apresentamos um aplicativo web rev
 
 ## Público-Alvo
 
-Público-Alvo e Stakeholders:
+Leitor Ávido:
 
-Este site de controle de livros atrairá principalmente três tipos de usuários:
-
-Leitor Ávido: Consumidor assíduo de livros, com vasto conhecimento literário e confortável com tecnologia.
-
-Leitor Casual: Lê ocasionalmente, menos familiarizado com a tecnologia e com conhecimentos literários variados.
-
-Estudante: Utiliza o site para organizar leituras acadêmicas e recreativas, variando em familiaridade com tecnologia.
-
-Mapa de Stakeholders:
-
-Usuários Finais: Leitores.
-Desenvolvedores e Equipe Técnica: Manutenção e desenvolvimento do site.
-Editores e Curadores de Conteúdo: Recomendações e resenhas.
-Anunciantes e Patrocinadores: Suporte financeiro.
-Parceiros de Integração: Garantia de integração com outras plataformas.
+Esse usuário é um verdadeiro entusiasta da leitura, imerso em um mar de livros constantemente. Possui uma biblioteca pessoal considerável e está sempre em busca de novas obras para ampliar seus horizontes literários. Com um vasto conhecimento sobre diferentes gêneros literários e autores, o Leitor Ávido é uma autoridade quando se trata de recomendações de livros. Ele está completamente à vontade com a tecnologia, utilizando diversas plataformas online para descobrir e organizar suas leituras. Sua influência se estende para outros usuários, que confiam em suas recomendações para explorar novas histórias e autores.
