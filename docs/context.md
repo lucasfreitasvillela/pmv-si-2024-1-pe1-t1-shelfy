@@ -1,8 +1,8 @@
 # Introdução
 
-No atual cenário cultural e tecnológico, a leitura continua a ser uma atividade essencial para o enriquecimento pessoal e intelectual. A era digital trouxe consigo uma grande diversidade de plataformas e recursos, mas muitos leitores ainda enfrentam dificuldades na organização de suas leituras e na descoberta de novos livros alinhados aos seus interesses individuais. Neste contexto, observamos que os leitores buscam soluções eficazes para gerenciar suas bibliotecas pessoais, acompanhar o progresso de leitura e compartilhar recomendações.
+No atual cenário cultural e tecnológico, a leitura continua a ser uma atividade essencial para o enriquecimento pessoal e intelectual. Apesar das preocupações com a diminuição do hábito de leitura, o Brasil ainda mantém uma base significativa de leitores, como evidenciado pelos dados do Sindicato Nacional dos Editores de Livros (SNEL), que apontam que as vendas de livros superaram os 2 bilhões de reais em 2021. Este mercado expressivo tem encontrado na internet um aliado, com 55% dos consumidores de livros realizando suas compras online, indicando uma forte relação entre os leitores e a tecnologia.
 
-Segundo dados alarmantes do G1, o Brasil perdeu 4,6 milhões de leitores no período entre 2015 e 2019. Evidenciando uma queda expressiva na quantidade de leitores que suscita preocupações sobre o futuro da cultura literária no país. A falta de práticas organizacionais e a dificuldade em encontrar obras alinhadas aos interesses individuais são fatores cruciais que contribuem para esse declínio. Muitos leitores enfrentam desafios na seleção de livros que correspondam às suas preferências e expectativas, o que pode resultar em desinteresse e desmotivação para continuar a leitura. 
+Entretanto, dados alarmantes divulgados pelo G1 revelaram uma queda de 4,6 milhões de leitores no Brasil entre 2015 e 2019. Este declínio expressivo levanta preocupações sobre o futuro da cultura literária no país. Questões como a falta de políticas organizacionais e a dificuldade em encontrar obras que atendam aos interesses individuais são fatores cruciais que contribuem para esse cenário desafiador.
 
 ## Problema
 
