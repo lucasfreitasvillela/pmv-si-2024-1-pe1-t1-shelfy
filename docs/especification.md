@@ -1,6 +1,7 @@
 # Especificações do Projeto
 
-Diversos leitores enfrentam desafios na organização de suas leituras e na descoberta de novos livros de acordo com seus gostos individuais. Nesse contexto, desenvolveremos um Sistema Web para ajudar os amantes da leitura a organizar seus livros de forma prática. 
+Diversos leitores enfrentam desafios na organização de suas leituras e na descoberta de novos livros de acordo com seus gostos individuais. 
+Nesse contexto, desenvolveremos um Sistema Web para ajudar os amantes da leitura a organizar seus livros de forma prática. 
 O usuário poderá cadastrar um livro e informar seu status de leitura, categorizar livros, marcar páginas, realizar anotações e recomendação de novos livros de acordo com os gostos individuais.
 
 ## Personas
@@ -16,7 +17,7 @@ Sofia Oliveira é uma estudante universitária de 20 anos cursando Letras. Ela �
 
 3º Persona
 
-Marcos Silva é um advogado de 45 anos com uma rotina agitada e estressante. Apesar de seu trabalho exigente, ele sempre encontra tempo para relaxar e descontrair por meio da leitura. Marcos busca uma forma conveniente de acessar e gerenciar seus livros favoritos, mesmo em meio à correria do dia a dia.
+Marcos Silva é um advogado de 45 anos com uma rotina agitada e estressante. Apesar de seu trabalho exigente, ele sempre encontra tempo para relaxar e descontrair por meio da leitura. Marcos busca uma forma conveniente de acessar e gerenciar seus livros favoritos, mesmo em meio à correria do dia a dia e compartilhar suas opiniões literárias com outros leitores. 
 
 ## Histórias de Usuários
 
@@ -24,9 +25,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar meus livros           | Organizar minhas leituras
-|Usuário do sistema | Encontrar novos livros | Estimular a leitura
-|Usuário do sistema | Categorizar meus livros | Organizar minhas leitura
+|Leitor ávido  | Organizar minhas leituras          | Conciliar estudos e leitura
+|Bibliotecária | Recomendar novos livros | Incentivar a leitura
+|Leitor  | Gerenciar meus lviros | Organizar minhas leituras
+|Estudante | Encontrar novos livros | Expandir meus horizontes literários
+|Leitor | Compartilhar minhas opiniões literária | Conhecer novos leitores e participar de um grupo
 
 
 ## Requisitos
