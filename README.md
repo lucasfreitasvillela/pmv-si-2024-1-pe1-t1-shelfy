@@ -15,6 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Márcia Sant´ Anna Parreira
 * Saulo de Tarso Moras Ribeiro
 * João Pedro Moraes Silva
+* Tiago Atahualpa Hermoza Menezes
 
 ## Orientador
 
