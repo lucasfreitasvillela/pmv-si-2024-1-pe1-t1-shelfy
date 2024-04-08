@@ -10,20 +10,36 @@ Link para melhor visualização: https://testedevpath.invisionapp.com/freehand/S
 
 ## Wireframes
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface e é fundamental sempre relacionar cada wireframe com o(s) requisito(s) que ele atende.
+Página Inicial, permitindo aos usuários fazer login e navegar sobre as opções da navbar. 
+![alt text](img/Wireframe/image.png)
 
-### Exemplo
+Página para pesquisar livros e receber recomendações
+![alt text](img/Wireframe/image-1.png)
 
-A tela inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade. Nesta tela, são apresentados os seguintes requisitos
+Página de Login
+![alt text](img/Wireframe/image-2.png)
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Página de Cadastro
+![alt text](img/Wireframe/image-3.png)
 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+Tela Principal, permitindo aos usuários cadastrar novos livros, estantes e visualizar suas próprias estantes de livros
+![alt text](img/Wireframe/image-4.png)
+
+Perfil
+![alt text](img/Wireframe/image-5.png)
+
+Página para visualizar as estantes de livros criadas
+![alt text](img/Wireframe/image-6.png)
+
+Página para visualizar os livros em cada estante
+![alt text](img/Wireframe/image-7.png)
+
+Página para permitir que os usuários avaliem e escrevam resenhas sobre os livros
+![alt text](img/Wireframe/image-8.png)
+
+Criar nova estante
+![alt text](img/Wireframe/image-9.png)
+
+Adicionar novos livros
+![alt text](img/Wireframe/image-10.png)
+
