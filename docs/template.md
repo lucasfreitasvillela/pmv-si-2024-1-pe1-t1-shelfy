@@ -1,36 +1,52 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-Explique as guias de estilo utilizadas no seu projeto.
-
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
+### Página Inicial
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/59ece91f-04c0-40e1-b18a-6db2639a1c19)
+
+### Telas para Cadastro e Login
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/30e21034-f024-46aa-acba-f13bd2705553)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/86b0f036-408d-4f7f-b728-21d2822770c3)
+
+### Perfil do Usuário
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/dc0ae2c6-f800-48e7-be6b-cec198785189)
+
+### Tela para Interação
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/40bd0f39-5d31-4dd9-bdd1-bcf0afe34fd2)
+
+### Tela para adicionar um novo livro
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/54e2cd5f-e95c-4f14-b9a6-ca8964a726c1)
+
+### Tela para interagir com o livro
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/e4f07cad-cfd0-4cfe-ba6b-cb28c2c987e3)
+
+
+### Tela para adicionar nova estante
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/a3d970c3-be3d-46ae-be2a-bcd848d18cc4)
+
+### Tela para interagir com as estantes
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/b12b415e-461b-4eda-b933-75e60f8de049)
+
+### Tela da estante
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/54ba56d4-3b75-45ab-995a-83d09ce5bc27)
 
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t1-shelfy/assets/124698305/d8483527-57de-498d-80c1-b3523f260dac)
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
-
-
-## Iconografia
-
-Defina os ícones que serão utilizados e suas respectivas funções.
-
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
-
-
-> **Links Úteis**:
->
-> -  [Como criar um guia de estilo de design da Web](https://edrodrigues.com.br/blog/como-criar-um-guia-de-estilo-de-design-da-web/#)
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+Título = ITC Font Gothic LT Medium Ithalic - 42px
+Subtítulo = Bold - 40px
+Texto em destaque = Bold - 22px
+Corpo de texto = Regular - 16px
