@@ -16,6 +16,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Saulo de Tarso Moras Ribeiro
 * João Pedro Moraes Silva
 * Tiago Atahualpa Hermoza Menezes
+* Lucas Freitas Villela Lourenço
 
 ## Orientador
 
